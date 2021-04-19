@@ -5,7 +5,7 @@
 
 <h3> Make sure you have installed npm, express before running it </h3>
 
-    npm install express
+    npm install express, morgan
    
 <hr>
 <h4>Feel free to use the code in your project</h4>
